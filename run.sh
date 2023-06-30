@@ -1,2 +1,2 @@
 source /params/params
-uwsgi --ini payment.ini
+node server.js
